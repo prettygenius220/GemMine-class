@@ -1,1 +1,4 @@
 welcome to GemMine
+An organization 
+
+of Gems
